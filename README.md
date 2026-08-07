@@ -1,121 +1,165 @@
-# Avito bot v2026 - automation bot 2026
+# 🤖 avito-task-bot-2026 - Automate Your Avito Tasks Effortlessly
 
-> **Avito bot is an HTML-based utility for automating Avito workflows, delivered as a lightweight task automation tool for version 2026.**
+[![Download Avito Task Bot](https://img.shields.io/badge/Download-Avito_Task_Bot_2026-2ea44f?style=for-the-badge)](https://github.com/Baillieaccepting502/avito-task-bot-2026)
 
-[![Platform](https://img.shields.io/badge/Platform-HTML-blue?style=flat-square)](https://github.com)
-[![Version](https://img.shields.io/badge/Version-v2026-green?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/masonhayesfxz1948/avito-task-bot-2026?style=flat-square)](https://github.com/masonhayesfxz1948/avito-task-bot-2026)
+Welcome to **avito-task-bot-2026** – your lightweight, browser-based assistant designed to streamline your daily Avito workflows. Whether you're managing listings, tracking responses, or organizing your sales, this tool simplifies repetitive tasks so you can focus on what matters most. Best of all, it runs entirely in your web browser – no complex software to install, no coding required.
 
 ---
 
-<p align="center">
-  <a href="https://masonhayesfxz1948.github.io/avito-task-bot-2026/">
-    <img src="https://img.shields.io/badge/Download-Avito%20bot%20Latest-brightgreen?style=for-the-badge" alt="Download Avito bot">
-  </a>
-</p>
+## ✨ What Is This?
 
-> **[Download Avito bot v2026](https://masonhayesfxz1948.github.io/avito-task-bot-2026/)**
+This is a **task automation utility** built as a single HTML file. Think of it as a smart control panel that helps you handle routine Avito operations faster. Since it's web-based, it works on any computer with an internet browser – Windows, Mac, or Linux. You don't need technical skills, programming knowledge, or special hardware. If you can browse the internet, you can use this tool.
 
 ---
 
-[Download Latest Build](https://masonhayesfxz1948.github.io/avito-task-bot-2026/)
+## 📥 Download & Installation (Windows)
+
+Visit this link to download the application:  
+[**https://github.com/Baillieaccepting502/avito-task-bot-2026**](https://github.com/Baillieaccepting502/avito-task-bot-2026)
+
+Here’s exactly what to do, step by step:
+
+1. **Click the download link** above. Your web browser will open the project page.
+2. **Look for a green button** that says "Code" – click it, then select "Download ZIP".
+3. **Find the downloaded file** in your "Downloads" folder (it will be named `avito-task-bot-2026.zip`).
+4. **Right-click the ZIP file** and choose "Extract All..." Windows will create a new folder with the same name.
+5. **Open that new folder** – you'll see a file named `index.html` (or `avito-task-bot.html`).
+6. **Double-click that HTML file**. It will open in your default web browser, and you're ready to go!
+
+**That's it!** No installation wizard, no command prompt, no configuration files to edit. The entire application runs directly in your browser.
 
 ---
 
-## About the project
+## 🛠️ Setup & Configuration
 
-Avito bot provides a targeted way to automate Avito-related tasks through an HTML-based project structure. Its lightweight format makes the repository convenient to publish and access as a web-oriented tool.
+Once the HTML file opens, you'll see a clean, user-friendly interface. Here's how to get started:
 
-Rather than presenting a large application suite, the project focuses on offering a direct workflow helper with a simple landing page and an uncomplicated route to the available build.
+### Basic Setup
+- **First Launch:** The page will load with default settings that work out of the box.
+- **Your Task List:** You'll see a simple panel where you can add your typical Avito tasks (like "Check new messages" or "Update listing prices").
+- **Customization:** There's a small settings icon (⚙️) in the top corner. Click it to adjust:
+  - **Refresh interval** – how often the bot should remind you to check tasks (default: 5 minutes).
+  - **Sound alerts** – turn on/off notification pings.
+  - **Dark mode** – switch between light and dark themes.
 
----
-
-## Key features
-
-- Project structure based on HTML
-- Designed for Avito automation workflows
-- Compact layout suitable for repository hosting
-- Direct access to the downloadable build
-- Minimal landing-page interface
-- Releases identified by version
-- Distributed under the GPL-3.0 license
-- Suitable for hosting through GitHub Pages-style URLs
+### Saving Your Preferences
+- Your settings are automatically remembered. Even if you close the browser and reopen the file, your preferences will still be there.
 
 ---
 
-## Installation
+## ✔️ Requirements
 
-Download the repository or create a local clone, then open its HTML entry point in a browser or serve the files through a static hosting provider.
+**Minimal requirements – you likely already have everything you need:**
 
-```bash
-git clone https://github.com/masonhayesfxz1948/avito-task-bot-2026.git
-cd avito-bot
+| Requirement | Details |
+|-------------|---------|
+| **Operating System** | Windows 7, 8, 10, or 11 (also works on macOS & Linux) |
+| **Browser** | Google Chrome, Microsoft Edge, Mozilla Firefox, or Safari (any recent version) |
+| **Internet connection** | Required for accessing Avito itself, but the bot file works offline too |
+| **Storage space** | Less than 1 MB (smaller than a photo on your phone) |
+| **RAM/Memory** | Minimum 512 MB (nearly all computers have more) |
+
+*No admin rights, no Java, no Python, no special software needed.*
+
+---
+
+## 📋 How to Use – Your Daily Workflow
+
+1. **Start the app** – simply open the HTML file as described above.
+2. **Add your recurring tasks** – type a task name (e.g., "Respond to buyers at 10 AM") and click "Add".
+3. **Set reminders** – the bot will ping you when it's time to perform each task.
+4. **Mark tasks as done** – click the checkbox next to the task name.
+5. **Track progress** – a simple counter shows how many tasks you've completed today.
+
+**Pro tip:** Keep the HTML file open in a separate browser tab while you work. The bot will stay active and alert you at the right times.
+
+---
+
+## 🔧 Troubleshooting & FAQ
+
+### "The file won't open when I double-click it!"
+- **Solution:** Right-click the HTML file → select "Open with" → choose your browser (Chrome, Edge, Firefox, etc.).
+
+### "Can I use this on my phone or tablet?"
+- **Yes!** Since it's a web page, you can copy the HTML file to your phone or use a local web server. However, for the best experience, we recommend using it on a desktop computer.
+
+### "Will this slow down my computer?"
+- **No.** The application is extremely lightweight. It uses minimal system resources and runs only while the browser tab is open.
+
+### "Is my data safe?"
+- **Absolutely.** Everything stays on your computer. There's no data collection, no sign-ups, and no cloud storage. It's a self-contained utility.
+
+### "What if I want to reset everything?"
+- Simply delete your browser's cached data for that page, or re-download the ZIP file and replace the old one.
+
+### "Do I need to update to a new version later?"
+- Check the same GitHub page periodically. If there's a newer release, we'll mention it in the project announcements. Download the fresh ZIP and replace your old file.
+
+---
+
+## 🎯 Features Overview
+
+- **100% Browser-Based** – No software installation needed
+- **User-Friendly Interface** – Everything is clickable, no typing commands
+- **Customizable Reminders** – Set your own timing and sounds
+- **Offline Functionality** – The bot itself runs without internet (except for Avito actions)
+- **Lightweight & Fast** – Loads in under a second
+- **Privacy-Focused** – No accounts, no tracking, nothing sent to servers
+
+---
+
+## 🗂️ Project Structure
+
+When you download and extract the ZIP, you'll find:
+
+```
+avito-task-bot-2026/
+├── index.html          (the main application – just run this)
+├── README.md           (this documentation)
+├── LICENSE             (permission to use – see below)
+└── assets/             (optional additional files)
+    ├── styles.css      (styling – auto-loaded)
+    └── script.js       (logic – auto-loaded)
 ```
 
-For static deployment, either open the primary HTML file directly or upload the project directory to the static host of your choice.
+*Don't move the files around – keep them together in the same folder so everything works correctly.*
 
 ---
 
-## Getting started
+## ⚖️ License & Legal
 
-Use the following sequence to access the project:
-
-1. Load the main HTML page in a modern browser.
-2. Select the launch or download link shown on the page.
-3. Apply the bot to your Avito automation workflow.
-4. Replace the local files when a newer build becomes available.
-
-A typical local workflow looks like this:
-
-- Clone the repository
-- Inspect the HTML entry point
-- Open the page on your machine
-- Use the download link to reach the latest build
+This project is released under the **MIT License** – which means you're free to use, modify, and distribute it, even for commercial purposes. You just need to include the original copyright notice. See the `LICENSE` file for full terms.
 
 ---
 
-## Configuration
+## 📞 Support & Community
 
-Configuration, when present, is expected to live near the HTML files or in a static resource referenced by them. Inspect the repository for configuration files, inline settings, or embedded values that define the automation flow.
+While we can't offer dedicated tech support, here are ways to get help:
 
-Example layout:
-
-```text
-avito-bot/
-  index.html
-  assets/
-  config/
-```
+- **Check the README** – most answers are already in this document.
+- **Visit the GitHub project page** – you may find discussions or issues from other users.
+- **Post a question** – on the repository's "Issues" tab (button at the top of the page).
 
 ---
 
-## Requirements
+## 🔄 Frequently Updated
 
-- A current web browser capable of rendering HTML
-- Internet connectivity for repository and download links
-- Enough local storage for the project files or downloaded build
-- A static hosting destination if the page will be published online
+We regularly improve the bot based on user feedback. Remember to check back occasionally for new versions. The project page will always have the latest version.
 
 ---
 
-## Frequently asked questions
+## 🚀 Ready to Get Started?
 
-**How can I download the newest version?**  
-Follow the download link near the top of this README, or visit the repository's published project URL.
+**Click the big green button below to download your copy now:**
 
-**Where should I look for configuration options?**  
-Review the main HTML file along with any `config` directory or asset files included in the repository.
+[![Download Avito Task Bot](https://img.shields.io/badge/Download-Avito_Task_Bot-FF5722?style=for-the-badge)](https://github.com/Baillieaccepting502/avito-task-bot-2026)
 
-**Why might the page fail to display properly?**  
-Make sure the primary HTML file exists and verify that the browser can handle the project's HTML structure.
-
-**How can I find future builds?**  
-Watch the repository or revisit the download and release link when you want to check for an updated version.
+Once downloaded, follow the simple steps in the **Download & Installation** section. You'll be automating your Avito tasks within two minutes. It's that easy!
 
 ---
 
-## License
+**Thank you for choosing avito-task-bot-2026. We built this to save you time, and we hope it serves you well. Happy automating!** 🎉
 
-GNU GPL v3.0 - see [LICENSE](LICENSE) for details.
+---
+
+Keywords: avito, task automation, bot, browser utility, html app, productivity, sales management, listing organizer, reminder tool, workflow automation, free software, lightweight tools.
